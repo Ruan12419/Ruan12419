@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ruan12419
-- 👀 I’m interested in develop software
+- 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Web development
 - 📫 How to reach me ...
