@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ruan12419
+- 👋 Hi, my name is Ruan Lima
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Web development
