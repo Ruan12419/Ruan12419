@@ -22,3 +22,12 @@ Not limited to just the backend, I also developed knowledge in HTML (Thymeleaf, 
 
 
 - 📫 How to reach me: https://www.linkedin.com/in/ruan-lima-32ba1221b/
+
+
+
+
+### Design
+
+<div style="display: inline_block">
+  <img align="center" alt="photoshop" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg">
+  <img align="center" alt="illustrator" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg">
