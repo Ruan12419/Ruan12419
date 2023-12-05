@@ -18,6 +18,9 @@ You can click the Preview link to take a look at your changes.
 
 - I consider Java as my mother tongue, as it was the first programming language I learned, compared to other languages like Python and C, I adapted better to Java, therefore, it is the main language in which I want to specialize.
 
+
+
+
 - Olá, meu nome é Ruan Lima, tenho 20 anos e estou cursando diversas áreas de TI, como programação frontend, backend e banco de dados. Também estou fazendo uma graduação como tecnólogo em design gráfico, desenvolvendo habilidades que podem ser muito bem integradas à área de programação, especialmente no frontend.
 
 - Tenho muito interesse em desenvolvimento backend, tendo iniciado meus estudos há dois anos, adquiri conhecimentos sólidos em Java (Spring Boot) e Python (Flask), sendo o Java o principal. Não me limitando apenas ao backend, também desenvolvi conhecimentos em HTML (Thymeleaf, Jinja2), CSS (Bootstrap 5) e JavaScript (jQuery).
