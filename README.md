@@ -65,7 +65,7 @@ You can click the Preview link to take a look at your changes.
   <img align="center" alt="spring-boot" title="Spring Boot" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/spring/spring-original.svg">
   <img align="center" alt="flask" title="Flask" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/flask/flask-original.svg">
   <img align="center" alt="django" title="Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/django/django-plain.svg">
-  <img align="center" alt="react native" title="React Native" height="30" width="90" src="https://www.sb-konzept.de/api/cdn/wp-content/uploads/2023/01/react-native.png">
+  <img align="center" alt="react native" title="React Native" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/react/react-original.svg">
   <img align="center" alt="vue.js" title="Vue.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/vuejs/vuejs-original.svg">
 </div>
 
