@@ -53,11 +53,20 @@ You can click the Preview link to take a look at your changes.
   <img align="center" alt="css" title="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
+### Enviroments
+
+<div style="display: inline_block">
+  <img align="center" alt="node.js" title="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nodejs/nodejs-original.svg">
+</div>
+
 ### Frameworks
 
 <div style="display: inline_block">
   <img align="center" alt="spring-boot" title="Spring Boot" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/spring/spring-original.svg">
   <img align="center" alt="flask" title="Flask" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/flask/flask-original.svg">
+  <img align="center" alt="django" title="Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/django/django-plain.svg">
+  <img align="center" alt="react native" title="React Native" height="30" width="40" src="https://www.sb-konzept.de/api/cdn/wp-content/uploads/2023/01/react-native.png">
+  <img align="center" alt="vue.js" title="Vue.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/vuejs/vuejs-original.svg">
 </div>
 
 ### Versioning
@@ -72,4 +81,5 @@ You can click the Preview link to take a look at your changes.
 <div style="display: inline_block">
   <img align="center" alt="mysql" title="MySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg">
   <img align="center" alt="postgresql" title="PostgreSql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/postgresql/postgresql-plain.svg">
+  <img align="center" alt="mongoDB" title="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mongodb/mongodb-original.svg">
 </div>
