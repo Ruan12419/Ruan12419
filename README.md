@@ -26,8 +26,8 @@ You can click the Preview link to take a look at your changes.
 
 
 
-Olá, meu nome é Ruan Lima, tenho 21 anos e estou cursando diversas áreas de TI, como programação frontend, backend e banco de dados.
-Tenho muito interesse em desenvolvimento backend. Iniciei meus estudos há dois anos, adquirindo conhecimentos em Java (Spring Boot) e Python (Flask). Não me limitando apenas ao backend, também desenvolvi conhecimentos em HTML (Thymeleaf, Jinja2), CSS (Bootstrap 5) e JavaScript (jQuery).
+Olá, meu nome é Ruan Lima, tenho 23 anos e sou formado em Análise e Desenvolvimento de Sistemas.
+Tenho muito interesse em desenvolvimento backend. Iniciei meus estudos há 4 anos, adquirindo conhecimentos em Java (Spring Boot) e Python (Flask). Não me limitando apenas ao backend, também desenvolvi conhecimentos em HTML (Thymeleaf, Jinja2), CSS (Bootstrap 5) e JavaScript e TypeScript.
 
 - Contato: https://www.linkedin.com/in/ruan-lima-32ba1221b/
 
